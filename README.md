@@ -1,0 +1,1 @@
+Simples jogo de par ou ímpar em Elixir.
