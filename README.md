@@ -1,1 +1,1 @@
-Simples jogo de par ou ímpar em Elixir.
+Simples jogo de par ou ímpar em Elixir. Veja o vídeo (./video.mp4) explicando o funcionamento se não entender o código fonte por favor.
